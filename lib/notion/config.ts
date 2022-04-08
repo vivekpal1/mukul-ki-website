@@ -1,5 +1,6 @@
 // NOTE: rootNotionSpaceId is optional; set it to undefined if you don't want to use it.
-export const rootNotionPageId = 'My-Blog-fa13e514575041d7b0ed47aa1ba01055';
+export const rootNotionPageId =
+  "JOURNEY-OF-COMPUTERS-e74d4982a5f14176a668daaa98cf340a";
 export const rootNotionSpaceId = undefined;
 
 // NOTE: having this enabled can be pretty expensive as it re-generates preview
@@ -11,7 +12,8 @@ export const previewImagesEnabled = false;
 // build time)
 export const tweetEmbedsEnabled = false;
 
-export const isDev = process.env.NODE_ENV === 'development' || !process.env.NODE_ENV;
+export const isDev =
+  process.env.NODE_ENV === "development" || !process.env.NODE_ENV;
 
 export const port = process.env.PORT || 3000;
-export const rootDomain = isDev ? `localhost:${port}` : '';
+export const rootDomain = isDev ? `localhost:${port}` : "";
