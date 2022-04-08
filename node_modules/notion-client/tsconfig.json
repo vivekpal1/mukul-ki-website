@@ -1,0 +1,12 @@
+{
+  "extends": "../../tsconfig.base",
+  "compilerOptions": {
+    "composite": true,
+    "rootDir": "src",
+    "outDir": "build/esm",
+    "tsBuildInfoFile": "build/esm/index.tsbuildinfo",
+    "lib": ["ESNext"]
+  },
+  "include": ["src"],
+  "references": [{ "path": "../notion-types" }, { "path": "../notion-utils" }]
+}
