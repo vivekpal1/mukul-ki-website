@@ -56,6 +56,8 @@ My website includes the below aspects:
 
 - This website is buit by [@vivekpal1](https://github.com/vivekpal1)
 
-Please leave comments and share you feedbacks! Thank you ❤️🤝
+Please leave comments and share you feedbacks!
+Thank you ❤️🤝
+
 कृपया टिप्पणियाँ दे और अपनी प्रतिक्रिया साझा करें! शुक्रिया | ❤️🤝
 
