@@ -1,17 +1,22 @@
-import {Player} from '@lottiefiles/react-lottie-player';
-import {motion} from 'framer-motion';
-import Image from 'next/image';
-import Link from 'next/link';
+import { Player } from "@lottiefiles/react-lottie-player";
+import { motion } from "framer-motion";
+import Image from "next/image";
+import Link from "next/link";
 
-import AboutMe from '/public/images/aboutme.svg';
-import DWaveLogo from '/public/images/companies/DWave.svg';
-import UMLogo from '/public/images/companies/IBM.svg';
-import UPMCLogo from '/public/images/companies/NVIDIA.svg';
-import UnionbankLogo from '/public/images/companies/unionbank.svg';
-import DoorBg from '/public/images/door.svg';
-import {fadeInVariant, itemVariant, listVariant, rightToLeftVariant} from '@/lib/motion';
+import AboutMe from "/public/images/aboutme.svg";
+import DWaveLogo from "/public/images/companies/DWave.svg";
+import UMLogo from "/public/images/companies/IBM.svg";
+import UPMCLogo from "/public/images/companies/NVIDIA.svg";
+import UnionbankLogo from "/public/images/companies/unionbank.svg";
+import DoorBg from "/public/images/door.svg";
+import {
+  fadeInVariant,
+  itemVariant,
+  listVariant,
+  rightToLeftVariant,
+} from "@/lib/motion";
 
-import SocialIcons from '../share/SocialIcons';
+import SocialIcons from "../share/SocialIcons";
 
 export default function HeroSection() {
   return (
@@ -26,12 +31,19 @@ export default function HeroSection() {
           >
             <motion.div variants={itemVariant}>
               <h2 className="py-6 text-center text-3xl !leading-snug lg:text-left lg:text-5xl">
-                A Student Loving <span className="text-sky-600/80 dark:text-sky-500">Quantum Computing</span> and{' '}
-                <span className="text-teal-600/90 dark:text-teal-500">Computers</span>
+                A Student Loving{" "}
+                <span className="text-sky-600/80 dark:text-sky-500">
+                  Quantum Computers
+                </span>{" "}
+                and{" "}
+                <span className="text-teal-600/90 dark:text-teal-500">
+                  Physics
+                </span>
               </h2>
               <p>
-                Hi 👋 ~ I’m Mukul Pal a student from Sonipat, Hariyana. Love modern technologies like AI, Quantum
-                Computing, and Computer Science.
+                Hi 👋 ~ I’m Mukul Pal a student from Sonipat, Hariyana. Love
+                modern technologies like AI, Quantum Computing, and Computer
+                Science.
               </p>
             </motion.div>
             <motion.div className="lg:mb-14" variants={itemVariant}>
@@ -39,14 +51,17 @@ export default function HeroSection() {
             </motion.div>
           </motion.div>
           <motion.div
-            initial={{opacity: 0}}
-            animate={{opacity: 1, transition: {duration: 1}}}
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1, transition: { duration: 1 } }}
             className="relative flex min-h-[250px] w-full items-stretch text-queen-300 dark:text-gray-600 lg:w-1/2"
           >
-            <Player autoplay loop src="/lottie/developer.json" speed={0.8}></Player>
+            <Player autoplay loop src="/lottie/tech.json" speed={0.8}></Player>
 
             {/* <DoorBg className="absolute h-full" /> */}
+
+            {/* UNCOMMENT THIS LINE TO ADD PICTURE */}
             {/* <Image src="/images/me.png" alt="Mukul's Picture" priority={true} layout="fill" objectFit="contain" /> */}
+
             {/* <img
               src="/images/me.png"
               className="z-[1] max-h-[300px] min-h-[200px] w-auto lg:max-h-[400px]"
@@ -60,15 +75,21 @@ export default function HeroSection() {
           </motion.div>
         </div>
       </div>
-      <motion.div className="bg" initial="hidden" animate="visible" variants={rightToLeftVariant}>
-        <div className="container m-auto px-6 lg:px-20">
+      <motion.div
+        className="bg"
+        initial="hidden"
+        animate="visible"
+        variants={rightToLeftVariant}
+      >
+        {/* UNCOMMENT TO ADD COMPANY LOGOS */}
+        {/* <div className="container m-auto px-6 lg:px-20">
           <div className="flex h-28 items-center justify-center gap-4 lg:justify-start lg:gap-10">
             <DWaveLogo className="h-4" />
             <UnionbankLogo className="h-7" />
             <UMLogo className="h-6" />
             <UPMCLogo className="h-5" />
           </div>
-        </div>
+        </div> */}
       </motion.div>
       <style>
         {`
