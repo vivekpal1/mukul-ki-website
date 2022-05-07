@@ -15,7 +15,7 @@ export default function AboutPage() {
       organization: 'Psyche',
     },
     {
-      year: '20014 - 2024',
+      year: '2014 - 2024',
       title: 'Gymnast',
       organization: 'Playing gymanistics for India',
     },
@@ -34,7 +34,7 @@ export default function AboutPage() {
       tags: {GPA: 1.8},
     },
     {
-      year: '20011 - 2014',
+      year: '2011 - 2014',
       title: 'Early School',
       organization: "St. Mary's School, Sambhal",
       tags: {GPA: 0.8, medal: '1st Prize for Worst Student'},
