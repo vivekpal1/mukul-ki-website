@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url><loc>https://mukulpal.vercel.app</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-07T20:25:18.942Z</lastmod></url>
-<url><loc>https://mukulpal.vercel.app/about</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-07T20:25:18.942Z</lastmod></url>
-<url><loc>https://mukulpal.vercel.app/contact</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-07T20:25:18.942Z</lastmod></url>
-<url><loc>https://mukulpal.vercel.app/notion</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-07T20:25:18.942Z</lastmod></url>
-<url><loc>https://mukulpal.vercel.app/otherworks</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-07T20:25:18.942Z</lastmod></url>
-<url><loc>https://mukulpal.vercel.app/posts</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-07T20:25:18.942Z</lastmod></url>
-<url><loc>https://mukulpal.vercel.app/work</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-07T20:25:18.942Z</lastmod></url>
-<url><loc>https://mukulpal.vercel.app/notion/e74d4982a5f14176a668daaa98cf340a</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-07T20:25:18.942Z</lastmod></url>
-<url><loc>https://mukulpal.vercel.app/topics/Quantum Computing</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-07T20:25:18.942Z</lastmod></url>
-<url><loc>https://mukulpal.vercel.app/topics/computers</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-07T20:25:18.942Z</lastmod></url>
-<url><loc>https://mukulpal.vercel.app/posts/quantumcompute</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-07T20:25:18.942Z</lastmod></url>
-<url><loc>https://mukulpal.vercel.app/work/quantuminfo</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-07T20:25:18.942Z</lastmod></url>
-<url><loc>https://mukulpal.vercel.app/work/qubits</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-07T20:25:18.942Z</lastmod></url>
-<url><loc>https://mukulpal.vercel.app/work/theruindtemplevol1</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-07T20:25:18.942Z</lastmod></url>
-<url><loc>https://mukulpal.vercel.app/otherworks/art</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-07T20:25:18.942Z</lastmod></url>
-<url><loc>https://mukulpal.vercel.app/otherworks/scketching</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-07T20:25:18.942Z</lastmod></url>
-<url><loc>https://mukulpal.vercel.app/otherworks/storyofme</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-07T20:25:18.942Z</lastmod></url>
-<url><loc>https://mukulpal.vercel.app/otherworks/submergedruines</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-07T20:25:18.942Z</lastmod></url>
-<url><loc>https://mukulpal.vercel.app/otherworks/Temples</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-07T20:25:18.942Z</lastmod></url>
+<url><loc>https://mukulpal.vercel.app</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-07T20:40:45.745Z</lastmod></url>
+<url><loc>https://mukulpal.vercel.app/about</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-07T20:40:45.745Z</lastmod></url>
+<url><loc>https://mukulpal.vercel.app/contact</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-07T20:40:45.745Z</lastmod></url>
+<url><loc>https://mukulpal.vercel.app/notion</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-07T20:40:45.745Z</lastmod></url>
+<url><loc>https://mukulpal.vercel.app/otherworks</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-07T20:40:45.745Z</lastmod></url>
+<url><loc>https://mukulpal.vercel.app/posts</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-07T20:40:45.745Z</lastmod></url>
+<url><loc>https://mukulpal.vercel.app/work</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-07T20:40:45.745Z</lastmod></url>
+<url><loc>https://mukulpal.vercel.app/notion/e74d4982a5f14176a668daaa98cf340a</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-07T20:40:45.745Z</lastmod></url>
+<url><loc>https://mukulpal.vercel.app/posts/quantumcompute</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-07T20:40:45.745Z</lastmod></url>
+<url><loc>https://mukulpal.vercel.app/topics/Quantum Computing</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-07T20:40:45.745Z</lastmod></url>
+<url><loc>https://mukulpal.vercel.app/topics/computers</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-07T20:40:45.745Z</lastmod></url>
+<url><loc>https://mukulpal.vercel.app/otherworks/art</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-07T20:40:45.745Z</lastmod></url>
+<url><loc>https://mukulpal.vercel.app/otherworks/scketching</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-07T20:40:45.745Z</lastmod></url>
+<url><loc>https://mukulpal.vercel.app/otherworks/storyofme</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-07T20:40:45.745Z</lastmod></url>
+<url><loc>https://mukulpal.vercel.app/otherworks/submergedruines</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-07T20:40:45.745Z</lastmod></url>
+<url><loc>https://mukulpal.vercel.app/otherworks/Temples</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-07T20:40:45.745Z</lastmod></url>
+<url><loc>https://mukulpal.vercel.app/work/quantuminfo</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-07T20:40:45.745Z</lastmod></url>
+<url><loc>https://mukulpal.vercel.app/work/qubits</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-07T20:40:45.745Z</lastmod></url>
+<url><loc>https://mukulpal.vercel.app/work/theruindtemplevol1</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-05-07T20:40:45.745Z</lastmod></url>
 </urlset>

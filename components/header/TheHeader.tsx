@@ -131,7 +131,7 @@ export default function TheHeader() {
                   </Link>
                 </li>
                 <li className="hover:text-orange-600">
-                  <Link href="/#work">
+                  <Link href="/work">
                     <a className="p-2">Work</a>
                   </Link>
                 </li>
