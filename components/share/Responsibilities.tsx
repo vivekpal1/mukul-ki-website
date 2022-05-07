@@ -1,54 +1,69 @@
-import A11yIcon from '/public/images/responsibilities/a11y.svg';
-import TechShareIcon from '/public/images/responsibilities/demo.svg';
-import DesignIcon from '/public/images/responsibilities/design.svg';
-import worketupIcon from '/public/images/responsibilities/file-system.svg';
-import LanguageIcon from '/public/images/responsibilities/language.svg';
-import LibraryIcon from '/public/images/responsibilities/library.svg';
-import ManagementIcon from '/public/images/responsibilities/management.svg';
-import PaperIcon from '/public/images/responsibilities/paper.svg';
-import SystemIcon from '/public/images/responsibilities/system.svg';
-import TestIcon from '/public/images/responsibilities/test.svg';
+import A11yIcon from "/public/images/responsibilities/a11y.svg";
+import TechShareIcon from "/public/images/responsibilities/demo.svg";
+import DesignIcon from "/public/images/responsibilities/design.svg";
+import WorketupIcon from "/public/images/responsibilities/file-system.svg";
+import LanguageIcon from "/public/images/responsibilities/language.svg";
+import LibraryIcon from "/public/images/responsibilities/library.svg";
+import ManagementIcon from "/public/images/responsibilities/management.svg";
+import PaperIcon from "/public/images/responsibilities/paper.svg";
+import SystemIcon from "/public/images/responsibilities/system.svg";
+import TestIcon from "/public/images/responsibilities/test.svg";
 
 const responsibilities = [
   {
-    name: 'System Design',
+    name: "System Design",
     icon: <SystemIcon className="w-6" aria-label="System Design" />,
   },
   {
-    name: 'UI Design',
+    name: "UI Design",
     icon: <DesignIcon className="w-6" aria-label="UI Design" />,
   },
   {
-    name: 'work Management',
+    name: "work Management",
     icon: <ManagementIcon className="w-6" aria-label="work Management" />,
   },
   {
-    name: 'work Setup',
-    icon: <worketupIcon className="w-6 text-cyan-600 dark:text-cyan-400" aria-label="work Setup" />,
+    name: "work Setup",
+    icon: (
+      <WorketupIcon
+        className="w-6 text-cyan-600 dark:text-cyan-400"
+        aria-label="work Setup"
+      />
+    ),
   },
   {
-    name: 'Build Libraries',
+    name: "Build Libraries",
     icon: <LibraryIcon className="w-6" aria-label="Build Libraries" />,
   },
   {
-    name: 'Tech Share',
+    name: "Tech Share",
     icon: <TechShareIcon className="w-6" aria-label="Tech Share" />,
   },
   {
-    name: 'Accessability',
-    icon: <A11yIcon className="w-6 text-sky-600 dark:text-sky-400" aria-label="Accessability" />,
+    name: "Accessability",
+    icon: (
+      <A11yIcon
+        className="w-6 text-sky-600 dark:text-sky-400"
+        aria-label="Accessability"
+      />
+    ),
   },
   {
-    name: 'Internationalization',
+    name: "Internationalization",
     icon: <LanguageIcon className="w-6" aria-label="Internationalization" />,
   },
   {
-    name: 'Test Setup',
+    name: "Test Setup",
     icon: <TestIcon className="w-6" aria-label="Test Setup" />,
   },
   {
-    name: 'Paper Work',
-    icon: <PaperIcon className="w-6 text-gray-500 dark:text-gray-300" aria-label="Paper Work" />,
+    name: "Paper Work",
+    icon: (
+      <PaperIcon
+        className="w-6 text-gray-500 dark:text-gray-300"
+        aria-label="Paper Work"
+      />
+    ),
   },
 ];
 
@@ -56,7 +71,10 @@ export default function Responsibilities() {
   return (
     <div className="grid grid-cols-2 gap-4 sm:grid-cols-3 lg:gap-8">
       {responsibilities.map((r) => (
-        <span key={r.name} className="inline-flex flex-col items-center justify-center gap-1 text-sm">
+        <span
+          key={r.name}
+          className="inline-flex flex-col items-center justify-center gap-1 text-sm"
+        >
           {r.icon}
           <span>{r.name}</span>
         </span>
