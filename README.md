@@ -14,31 +14,31 @@ For that you have to clone this repository.
 Install dependencies
 
 ```zsh
-npm install
+❯  npm install
 
 # Or using Yarn
 
-yarn
+❯  yarn
 ```
 
 Start the development server
 
 ```zsh
-npm run dev
+❯  npm run dev
 
 # Or using Yarn
 
-yarn dev
+❯  yarn dev
 ```
 
 Build for production
 
 ```zsh
-npm run build
+❯  npm run build
 
 # Or using Yarn
 
-yarn build
+❯  yarn build
 ```
 
 
