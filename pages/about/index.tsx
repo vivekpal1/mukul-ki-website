@@ -66,7 +66,7 @@ export default function AboutPage() {
       <SectionLayout title="Education" lottie="education">
         <TimelineEvents eventList={educationList} />
       </SectionLayout>
-      <SectionLayout title="Responsibilities" className="">
+      <SectionLayout title="Skills and Responsibilities" className="">
         <Responsibilities />
       </SectionLayout>
       <SectionLayout title="My Values">

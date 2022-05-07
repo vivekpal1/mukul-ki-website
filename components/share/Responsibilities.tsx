@@ -14,7 +14,7 @@ const responsibilities = [
     name: "Research",
     icon: <SystemIcon className="w-6" aria-label="System Design" />,
   },
-
+  
   {
     name: "Paper Work",
     icon: (
