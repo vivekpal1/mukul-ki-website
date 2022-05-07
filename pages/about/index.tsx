@@ -6,8 +6,8 @@ export default function AboutPage() {
   const experienceList = [
     {
       year: '2022',
-      title: 'Researcher',
-      organization: 'D-wave Systems',
+      title: 'Started Learning',
+      organization: 'Qunatum Mechenics',
     },
     {
       year: '2021 - 2022',
@@ -15,7 +15,12 @@ export default function AboutPage() {
       organization: 'Psyche',
     },
     {
-      year: '2009 - 2024',
+      year: '20014 - 2024',
+      title: 'Gymnast',
+      organization: 'Playing gymanistics for India',
+    },
+    {
+      year: '2014 - 2024',
       title: 'Student',
       organization: 'Motilal Nehru School of Sports, Sonipat',
     },
