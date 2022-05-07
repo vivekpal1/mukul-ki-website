@@ -14,7 +14,14 @@ const responsibilities = [
     name: "Research",
     icon: <SystemIcon className="w-6" aria-label="System Design" />,
   },
-  
+  {
+    name: "Python",
+    icon: <SystemIcon className="w-6" aria-label="Python" />,
+  },
+  {
+    name: "Linux",
+    icon: <SystemIcon className="w-6" aria-label="Linux" />,
+  },
   {
     name: "Paper Work",
     icon: (
