@@ -11,51 +11,10 @@ import TestIcon from "/public/images/responsibilities/test.svg";
 
 const responsibilities = [
   {
-    name: "System Design",
+    name: "Research",
     icon: <SystemIcon className="w-6" aria-label="System Design" />,
   },
-  {
-    name: "UI Design",
-    icon: <DesignIcon className="w-6" aria-label="UI Design" />,
-  },
-  {
-    name: "work Management",
-    icon: <ManagementIcon className="w-6" aria-label="work Management" />,
-  },
-  {
-    name: "work Setup",
-    icon: (
-      <WorketupIcon
-        className="w-6 text-cyan-600 dark:text-cyan-400"
-        aria-label="work Setup"
-      />
-    ),
-  },
-  {
-    name: "Build Libraries",
-    icon: <LibraryIcon className="w-6" aria-label="Build Libraries" />,
-  },
-  {
-    name: "Tech Share",
-    icon: <TechShareIcon className="w-6" aria-label="Tech Share" />,
-  },
-  {
-    name: "Accessability",
-    icon: (
-      <A11yIcon
-        className="w-6 text-sky-600 dark:text-sky-400"
-        aria-label="Accessability"
-      />
-    ),
-  },
-  {
-    name: "Internationalization",
-    icon: <LanguageIcon className="w-6" aria-label="Internationalization" />,
-  },
-  {
-    name: "Test Setup",
-    icon: <TestIcon className="w-6" aria-label="Test Setup" />,
-  },
+
   {
     name: "Paper Work",
     icon: (
