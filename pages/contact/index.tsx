@@ -47,7 +47,7 @@ export default function ContactPage() {
     //     formData[e.name] = e.value;
     //   }
     // });
-    // fetch('https://formsubmit.co/ajax/mukulpal1318@gmail.com', {
+    // fetch('https://formsubmit.co/ajax/mukulpal@duck.com', {
     //   method: 'POST',
     //   headers: {
     //     'Content-Type': 'application/json',
@@ -81,7 +81,7 @@ export default function ContactPage() {
             name="_subject"
             value="New submission from mukul website"
           />
-          <input type="hidden" name="_cc" value="mukulpal1318@gmail.com" />
+          <input type="hidden" name="_cc" value="mukulpal@duck.com" />
           <input type="hidden" name="_captcha" value="true" />
 
           <div className="mb-6">
@@ -175,10 +175,10 @@ export default function ContactPage() {
               <>
                 Something went wrong. Please send email to{" "}
                 <a
-                  href="mailto:mukulpal1318@gmail.com"
+                  href="mailto:mukulpal@duck.com"
                   className="text-king-600 dark:text-king-400"
                 >
-                  mukulpal1318@gmail.com
+                  mukulpal@duck.com
                 </a>{" "}
                 manually.
               </>

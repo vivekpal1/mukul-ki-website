@@ -13,7 +13,7 @@ export default function TheFooter() {
         <div className="grid grid-cols-1 gap-10 text-center lg:grid-cols-3 lg:gap-20 lg:px-16 lg:text-left">
           <section>
             <AppLogo />
-            <p>Quantum Engineer in D-Waves</p>
+            <p>Quantum Computing, and AI.</p>
             <p className="mt-10">
               Learn, think, share, collaborate. <br />
               Make a progress every day.
@@ -21,7 +21,7 @@ export default function TheFooter() {
           </section>
           <section className="flex flex-col gap-2">
             <div className="text-xl font-bold">Contact</div>
-            <a href="mailto:mukulpal1318@gmail.com">mukulpal1318@gmail.com</a>
+            <a href="mailto:mukulpal@duck.com">mukulpal@duck.com</a>
             <SocialIcons iconClass="btn-icon" />
             <div className="flex justify-center lg:justify-start">
               <Link href="/contact">
