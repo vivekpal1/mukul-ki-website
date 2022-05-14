@@ -60,7 +60,13 @@ export default function HeroSection() {
             {/* <DoorBg className="absolute h-full" /> */}
 
             {/* UNCOMMENT THIS LINE TO ADD PICTURE */}
-            {/* <Image src="/images/me.png" alt="Mukul's Picture" priority={true} layout="fill" objectFit="contain" /> */}
+            <Image
+              src="/images/me.png"
+              alt="Mukul's Picture"
+              priority={true}
+              layout="fill"
+              objectFit="contain"
+            />
 
             {/* <img
               src="/images/me.png"
