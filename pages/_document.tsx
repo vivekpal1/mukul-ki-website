@@ -1,14 +1,24 @@
-import Document, {Head, Html, Main, NextScript} from 'next/document';
+import Document, { Head, Html, Main, NextScript } from "next/document";
 
 class MyDocument extends Document {
   render() {
     return (
       <Html lang="en">
         <Head>
-          <link rel="preload" href="/fonts/Poppins/Poppins-Regular.ttf" as="font" crossOrigin="true" />
-          <link rel="preload" href="/fonts/Poppins/Poppins-Medium.ttf" as="font" crossOrigin="true" />
+          <link
+            rel="preload"
+            href="/fonts/Poppins/Poppins-Regular.ttf"
+            as="font"
+            crossOrigin="true"
+          />
+          <link
+            rel="preload"
+            href="/fonts/Poppins/Poppins-Medium.ttf"
+            as="font"
+            crossOrigin="true"
+          />
           <link rel="icon" href="/favicon.ico" />
-          <meta name="description" content="Mukul Pal's Website" key="desc" />
+          <meta name="description" content="Mukul Pal" key="desc" />
         </Head>
         <body className="no-scrollbar">
           <Main />

@@ -115,7 +115,7 @@ export default function TheHeader() {
           }`}
         >
           <div className="container mx-auto flex h-20 items-center justify-between px-6">
-            <h1 aria-label="Mukul Pal's Website">
+            <h1 aria-label="Mukul Pal">
               <AppLogo />
             </h1>
             <nav className="hidden lg:block">
