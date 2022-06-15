@@ -18,6 +18,7 @@ export default function AboutPage() {
       year: '2014 - 2024',
       title: 'Gymnast',
       organization: 'Playing gymanistics for India',
+      tags: {medal: 'Gymnastics'},
     },
     {
       year: '2014 - 2024',
@@ -31,13 +32,13 @@ export default function AboutPage() {
       year: '2014 - 2024',
       title: 'High School',
       organization: 'Motilal Nehru School of Sports, Sonipat',
-      tags: {GPA: 1.8},
+      tags: {GPA: xx},
     },
     {
       year: '2011 - 2014',
       title: 'Early School',
       organization: "St. Mary's School, Sambhal",
-      tags: {GPA: 0.8, medal: '1st Prize for Worst Student'},
+      tags: {GPA: 8.2,},
     },
   ];
 
