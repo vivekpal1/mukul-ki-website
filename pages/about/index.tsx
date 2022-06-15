@@ -32,13 +32,13 @@ export default function AboutPage() {
       year: '2014 - 2024',
       title: 'High School',
       organization: 'Motilal Nehru School of Sports, Sonipat',
-      tags: {GPA: xx},
+      tags: {GPA: 8.5},
     },
     {
       year: '2011 - 2014',
       title: 'Early School',
       organization: "St. Mary's School, Sambhal",
-      tags: {GPA: 8.2,},
+      tags: {GPA: 8.2},
     },
   ];
 
