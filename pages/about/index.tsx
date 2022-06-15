@@ -43,18 +43,9 @@ export default function AboutPage() {
 
   const values = [
     {
-      title: 'Shrivalli',
-      description: 'Nazrein Milte Hi Nazron Se Nazron Ko Churaye Kaisi Yeh Haya TeriJo Tu Palkon Ko Jhukaye',
-    },
-    {
-      title: 'Saami Saami',
+      title: 'Reading',
       description:
-        'Nuv ammi ammi antante Nee pallannaipoy nattundira Saami na saami Ninnu saami saami antante Na penimiti lekka sakkagundira Saami na saami',
-    },
-    {
-      title: 'Oo Anta Mava',
-      description:
-        'Koka koka koka kadithe Kora koramantu choosthaaru Potti potti gowney vesthey  Patti patti choostharu Koka kaadu gownu kaadu Kattulona yemundhi Mee kallallone anthaa undhi Mee maga buddhe vankara buddhi',
+        'Library is a heaven for me. I used to spent a lot of time in reading books and learning new things there. I love reading.',
     },
   ];
 
